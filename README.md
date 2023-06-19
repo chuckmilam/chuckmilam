@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chuckmilam here and on most other platforms.
 - 👀 I’m interested in using technology to eliminate toil and human error. Automate all the things!
-- 🌱 I’m currently learning more about DevSecOps every day. At home, I'm considering deploying my own Kubernetes clusters on ~~Raspberry Pis~~ whatever hardware I can scrounge up these days, because who can find a Pi anymore?
+- 🌱 I’m currently learning more about DevSecOps every day.
 - 💞️ I’m looking to collaborate with others who want to innovate while maintaining compliance boundaries.
 - 📫 How to reach me?  Start here.
 
